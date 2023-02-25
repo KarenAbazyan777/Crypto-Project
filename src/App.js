@@ -8,6 +8,7 @@ import './index.css'
 
 console.log(2);
 console.log(3);
+console.log(4);
 const App = ()=>{
 
     return (
