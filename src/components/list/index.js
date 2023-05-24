@@ -52,7 +52,7 @@ const List = ()=>{
         if(urlPage){
             fetchCurencies(urlPage)
         }
-    }, [urlPage])
+    }, [urlPage])   
 
 
    const handleChangePagination = (direction) =>{

@@ -6,9 +6,7 @@ import Details from "./components/details";
 import {BrowserRouter, Route, Routes, useLocation} from 'react-router-dom'
 import './index.css'
 
-console.log(2);
-console.log(3);
-console.log(4);
+    
 const App = ()=>{
 
     return (
